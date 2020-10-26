@@ -65,3 +65,11 @@ v-html directive and it's weird syntax inside another tag.  There are cross-serv
 ### Video 19
 
 Emphasizes that each vue app can only control one part of your html code.  It is usually given an id.
+
+### Videos 20 and 21
+
+Use v-on: instead of v-bind; for event listeners.  Most often you will want to call a method when the event happens.
+
+### Videos 22 and 23
+
+Working with events, reading events.
